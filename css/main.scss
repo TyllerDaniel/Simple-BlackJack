@@ -1,0 +1,43 @@
+body{
+    background: #f2f2f2;
+    margin: 10; 
+    font-family: 'Poppins';
+    background-image:url(../images/background.jpg) ;
+    background-size: cover;
+    color: whitesmoke;
+    font-weight: bold;
+    text-align: center;
+}
+h1{
+    color:whitesmoke;
+}
+#message-el{
+    font-style: italic;
+
+}
+#start-btn{
+    color: whitesmoke;
+    background: black;
+    border: none;
+    font-weight: bold;
+    margin-bottom: 5em;
+    border-radius: 5em;
+    display: inline-block;
+    padding: .8em 2em;
+    width: unset;
+    cursor:pointer;
+
+}
+#newcard-btn{
+    color: whitesmoke;
+    background: black;
+    border: none;
+    font-weight: bold;
+    margin-bottom: 5em;
+    border-radius: 5em;
+    display: inline-block;
+    padding: .8em 2em;
+    width: unset;
+    cursor:pointer;
+
+}
